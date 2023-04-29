@@ -137,10 +137,28 @@ body {
 
     .apresentacao {
         flex-direction: column-reverse;
-        padding: 5%;
+        padding: auto;
     }
 
     .apresentacao_conteudo {
         width: auto;
+    }
+    
+    .apresentacao_conteudo_titulo {
+        font-size: 2rem;
+        line-height: 3rem;
+    }
+
+    .apresentacao_conteudo_texto {
+        font-size: 1.5rem;
+    }
+
+    .apresentacao_links_navegacao {
+        width: 70%;
+    }
+
+    .img_perfil {
+        width: 70%;
+        height: 70%;
     }
 }
