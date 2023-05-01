@@ -39,6 +39,7 @@ body {
 }
 
 .apresentacao {
+    text-align: justify;
     padding: 5% 15%;
     display: flex;
     align-items: center;
